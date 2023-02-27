@@ -1,0 +1,1 @@
+System symulujący pracę fabryki.
